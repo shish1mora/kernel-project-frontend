@@ -1,0 +1,9 @@
+/* light-theme.css */
+:root.blue-light-theme {
+  --color-dark-bg: #ffffff;
+  --color-text-main: #000000;
+  --color-highlight: #0066ff;
+  --color-app-bg: #f0f0f0;
+  --color-alt-row-bg: #e0e0e0;
+  --color-hover-highlight: #0055cc;
+}

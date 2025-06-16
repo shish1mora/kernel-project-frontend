@@ -1,0 +1,8 @@
+:root.gruvbox-dark-theme {
+  --color-dark-bg: #212121;
+  --color-text-main: #ebdbb2;
+  --color-highlight: #d79921;
+  --color-app-bg: #282828;
+  --color-alt-row-bg: #665c54;
+  --color-hover-highlight: #fabd2f;
+}

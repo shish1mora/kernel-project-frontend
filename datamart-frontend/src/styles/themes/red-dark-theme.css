@@ -1,0 +1,8 @@
+:root.red-dark-theme {
+  --color-dark-bg: #232323;
+  --color-text-main: #e8e8e8;
+  --color-highlight: #cd3d3c;
+  --color-app-bg: #1d1d1d;
+  --color-alt-row-bg: #333333;
+  --color-hover-highlight: #ff4545;
+}

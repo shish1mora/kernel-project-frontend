@@ -1,0 +1,8 @@
+:root.matrix-dark-theme {
+  --color-dark-bg: #000000;
+  --color-text-main: #d1ffcd;
+  --color-highlight: #15ff00;
+  --color-app-bg: #323437;
+  --color-alt-row-bg: #3a3d40;
+  --color-hover-highlight: #d1ffcd;
+}

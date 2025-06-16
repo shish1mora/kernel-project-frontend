@@ -1,0 +1,11 @@
+services:
+  datamart_frontend:
+    container_name: datamart_frontend
+    build:
+      context: ../datamart-frontend/.
+      dockerfile: ../datamart-frontend/Dockerfile
+    environment:
+      BACKEND_API_URL: "http://192.168.161.173:7878"  
+    ports:
+      - "3000:3000"
+    restart: on-failure
